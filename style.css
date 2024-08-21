@@ -471,11 +471,19 @@ padding-right: 10px;
 
 .rights h5{
     text-align: center;
-    margin-top: 60px;
+    
     color:  rgb(95, 99, 90);
 }
 
+.rights0 h4{
+    text-align: center;
+    margin-top: 60px;
+    color:rgba(117, 191, 122, 1); 
+}
 
+.rights0 h4 i{
+    font-size: 20px;
+}
 
 
 
